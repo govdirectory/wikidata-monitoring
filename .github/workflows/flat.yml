@@ -1,0 +1,25 @@
+name: data
+on:
+  schedule:
+    - cron: 0 0 * * 1
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+      - ./postprocess.js
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%0A%20%20%3Fqid%0A%20%20%3ForgLabel%0A%20%20%3ForgDescription%0A%20%20%3Ftype%0A%20%20%3FtypeLabel%0A%20%20%3Fcountry%0A%20%20%3Fcofog%0AWHERE%20%7B%0A%20%20BIND(wd%3AQ20%20AS%20%3Fcountry)%0A%0A%20%20%7B%0A%20%20%20%20VALUES%20%3Ftype%20%7B%0A%20%20%20%20%20%20wd%3AQ755707%20%23%20Municipality%20of%20Norway%20(356)%0A%20%20%20%20%20%20wd%3AQ109644271%20%23%20ministry%20of%20Norway%20(16)%0A%20%20%20%20%7D%0A%0A%20%20%20%20%3Forg%20wdt%3AP31%20%3Ftype%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP17%20%3Fcountry%20.%0A%20%20%7D%20UNION%20%7B%0A%20%20%20%20VALUES%20%3Ftype%20%7B%0A%20%20%20%20%20%20wd%3AQ3917681%20%23%20embassy%20(82)%0A%20%20%20%20%7D%0A%20%20%20%20%3Forg%20wdt%3AP31%20wd%3AQ3917681%20%3B%0A%20%20%20%20%20%20%20%20%20wdt%3AP137%20%3Fcountry%20.%0A%20%20%7D%0A%0A%20%20MINUS%20%7B%20%3Forg%20wdt%3AP576%20%5B%5D%20%7D%0A%20%20MINUS%20%7B%20%3Forg%20wdt%3AP1366%20%5B%5D%20%7D%0A%20%20MINUS%20%7B%20%3Forg%20wdt%3AP3999%20%5B%5D%20%7D%0A%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Forg%20wdt%3AP9798%2Fwdt%3AP279*%20%3Fcofog%20.%0A%20%20%20%20MINUS%20%7B%20%3Fcofog%20wdt%3AP279%20%5B%5D%20%7D%0A%20%20%7D%0A%0A%20%20BIND(REPLACE(STR(%3Forg)%2C%20%22http%3A%2F%2Fwww.wikidata.org%2Fentity%2F%22%2C%20%22%22)%20AS%20%3Fqid)%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cnb%2Cno%22.%20%7D%0A%7D%0AORDER%20BY%20%3Ftype%20%3Ftopic
+          downloaded_filename: norway.json
+          postprocess: ./postprocess.js
