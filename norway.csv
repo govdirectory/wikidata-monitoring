@@ -116,7 +116,7 @@ Q93703,Flå,http://www.wikidata.org/entity/Q755707,municipality of Norway,http:/
 Q101341,Lillehammer,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q104095,Molde,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q104379,Vadsø,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q104400,Hamar Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q104400,Hamar municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q107135,Fredrikstad,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q107351,Hammerfest,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q107392,Tønsberg,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
@@ -133,7 +133,7 @@ Q109036,Haugesund,http://www.wikidata.org/entity/Q755707,municipality of Norway,
 Q109042,Halden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q109048,Horten,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q109140,Elverum,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q109483,Kristiansund Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q109483,Kristiansund municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q109489,Berlevåg,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q109499,Kongsvinger,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q109841,Hasvik,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
@@ -339,9 +339,66 @@ Q507562,Os,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://
 Q515536,Lund,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q649541,Kvæfjord,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q1215658,Narvik,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q1324436,Trondheim Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q5245991,Oslo Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q10428388,Bergen Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q1324436,Trondheim municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q5245991,Oslo municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q10428388,Bergen municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q25428806,Indre Fosen,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q41030999,Orkland,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q42293305,Indre Østfold,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q42320251,Færder,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q45303406,Nordre Follo,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48475310,Heim municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q52368284,Nærøysund,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56249968,Senja municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56404228,Alver,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56405258,Midt-Telemark,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56405940,Kinn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56406057,Sunnfjord,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q60742846,Bjørnafjorden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q60777023,Hustadvika,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q60806432,Lillestrøm municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q61015259,Stad,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q63644915,Øygarden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q65230514,Fjord municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q80571266,Lindesnes,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q80593157,Asker,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q80678654,Ullensvang,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q1825,Karasjok,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q1881,Fyresdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2229,Nissedal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2232,Kviteseid,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2236,Seljord,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2241,Tokke,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2245,Vinje,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2272,Skien,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2290,Porsgrunn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2308,Siljan,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2326,Notodden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2354,Hjartdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2367,Drangedal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2365,Tinn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2375,Nome,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2372,Kragerø,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2415,Kristiansand,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q5223,Stryn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q6459,Kautokeino,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q6535,Alta,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q25416,Stavanger,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q26087,Tromsø municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q26525,Drammen,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q27587,Sandnes,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48276,Flatanger,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48299,Masfjorden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48316,Tysnes,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48323,Meløy,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48325,Sørreisa,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48341,Lurøy,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48393,Aremark,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48414,Sør-Aurdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48501,Stranda,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48508,Sykkylven,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48518,Sveio,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48521,Sunndal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q48526,Stor-Elvdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q48529,Trysil,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q48542,Stange,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
@@ -396,60 +453,3 @@ Q57917,Ullensaker,http://www.wikidata.org/entity/Q755707,municipality of Norway,
 Q62140,Harstad,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q62266,Ålesund,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q62641,Nordkapp,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q25428806,Indre Fosen,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q41030999,Orkland,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q42293305,Indre Østfold,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q42320251,Færder,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q45303406,Nordre Follo,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48475310,Heim Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q52368284,Nærøysund,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56249968,Senja Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56404228,Alver,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56405258,Midt-Telemark,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56405940,Kinn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56406057,Sunnfjord,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q60742846,Bjørnafjorden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q60777023,Hustadvika,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q60806432,Lillestrøm Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q61015259,Stad,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q63644915,Øygarden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q65230514,Fjord Municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q80571266,Lindesnes,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q80593157,Asker,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q80678654,Ullensvang,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q1825,Karasjok,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q1881,Fyresdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2229,Nissedal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2232,Kviteseid,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2236,Seljord,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2241,Tokke,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2245,Vinje,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2272,Skien,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2290,Porsgrunn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2308,Siljan,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2326,Notodden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2354,Hjartdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2367,Drangedal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2365,Tinn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2375,Nome,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2372,Kragerø,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2415,Kristiansand,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q5223,Stryn,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q6459,Kautokeino,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q6535,Alta,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q25416,Stavanger,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q26087,Tromsø municipality,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q26525,Drammen,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q27587,Sandnes,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48276,Flatanger,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48299,Masfjorden,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48316,Tysnes,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48323,Meløy,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48325,Sørreisa,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48341,Lurøy,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48393,Aremark,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48414,Sør-Aurdal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48501,Stranda,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48508,Sykkylven,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48518,Sveio,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48521,Sunndal,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
