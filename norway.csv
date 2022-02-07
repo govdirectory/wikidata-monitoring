@@ -19,7 +19,7 @@ Q2511037,"Embassy of Norway, Kiev",norsk utenriksstasjon i Ukraina,http://www.wi
 Q2841823,"Embassy of Norway, Paris",norsk utenriksstasjon i  Frankrike,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q2841829,Norwegian embassy in Stockholm,Norsk diplomatisk representasjon i Sverige,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q3433356,"Embassy of Norway, Moscow",norsk utenriksstasjon i Russland,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
-Q5369813,"Embassy of Norway, Washington, D.C.",Diplomatic mission of the Kingdom of Norway to the United States,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
+Q5369813,"Embassy of Norway, Washington, D.C.",diplomatic mission of the Kingdom of Norway to the United States,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q11685574,"Embassy of Norway, Warsaw",norsk utenriksstasjon i Polen,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q11992092,"Embassy of Norway, Beijing","building in Beijing, China",http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q14089919,"Embassy of Norway, Rome","building in Rome, Italy",http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
@@ -77,7 +77,7 @@ Q19383603,"Embassy of Norway, Tokyo",Norwegian embasssy in Japan,http://www.wiki
 Q19383601,"Embassy of Norway, Tehran",norsk utenriksstasjon i Iran,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q19383606,"Embassy of Norway, East Berlin",tidligere norsk ambassade i DDR,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q19383605,"Embassy of Norway, Vienna","building in Vienna, Austria",http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
-Q25434681,"Embassy of Norway, Vilnius",norsk utenriksstasjon i Litauen,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
+Q25434681,"Embassy of Norway, Vilnius",Norwegian embassy in Lithuania,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q48816232,Embassy of Norway in Dublin,,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q68170077,embassy of Norway in Saudi Arabia,,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
 Q102077967,"Embassy of Norway, Amman",,http://www.wikidata.org/entity/Q3917681,embassy,http://www.wikidata.org/entity/Q20
@@ -342,63 +342,6 @@ Q1215658,Narvik,"municipality in Nordland county, Norway",http://www.wikidata.or
 Q1324436,Trondheim municipality,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q5245991,Oslo municipality,municipality in Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q10428388,Bergen municipality,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q25428806,Indre Fosen,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q41030999,Orkland,"municipality in Trøndelag, Norway, starting 2020",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q42293305,Indre Østfold,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q42320251,Færder,"municipality in Vestfold og Telemark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q45303406,Nordre Follo,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48475310,Heim municipality,"municipality in Trøndelag, Norway (from 2020)",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q52368284,Nærøysund,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56249968,Senja municipality,"municipality in Troms og Finnmark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56404228,Alver,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56405258,Midt-Telemark,"municipality in Vestfold og Telemark, Norway (from 2020)",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56405940,Kinn,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q56406057,Sunnfjord,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q60742846,Bjørnafjorden,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q60777023,Hustadvika,municipality of Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q60806432,Lillestrøm municipality,municipality in Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q61015259,Stad,"municipality in Vestland county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q63644915,Øygarden,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q65230514,Fjord municipality,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q80571266,Lindesnes,"municipality in Agder, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q80593157,Asker,"municipality in Viken County, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q80678654,Ullensvang,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q1825,Karasjok,municipality in Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q1881,Fyresdal,"municipality in Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2229,Nissedal,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2232,Kviteseid,"municipality in Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2236,Seljord,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2241,Tokke,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2245,Vinje,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2272,Skien,"municipality in Vestfold and Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2290,Porsgrunn,"municipality in Vestfold and Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2308,Siljan,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2326,Notodden,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2354,Hjartdal,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2367,Drangedal,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2365,Tinn,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2375,Nome,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2372,Kragerø,"municipality in Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q2415,Kristiansand,municipality of Agder county in Southern Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q5223,Stryn,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q6459,Kautokeino,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q6535,Alta,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q25416,Stavanger,"municipality in Rogaland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q26087,Tromsø municipality,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q26525,Drammen,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q27587,Sandnes,"municipality in Rogaland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48276,Flatanger,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48299,Masfjorden,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48316,Tysnes,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48323,Meløy,"municipality in Nordland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48325,Sørreisa,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48341,Lurøy,"municipality in Nordland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48393,Aremark,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48414,Sør-Aurdal,"municipality in Innlandet, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48501,Stranda,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48508,Sykkylven,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48518,Sveio,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
-Q48521,Sunndal,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q48526,Stor-Elvdal,"municipality in Innlandet, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q48529,Trysil,"municipality in Innlandet, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q48542,Stange,"municipality in Innlandet, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
@@ -453,3 +396,60 @@ Q57917,Ullensaker,"municipality in Viken, Norway",http://www.wikidata.org/entity
 Q62140,Harstad,"municipality in county Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q62266,Ålesund,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
 Q62641,Nordkapp,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q25428806,Indre Fosen,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q41030999,Orkland,"municipality in Trøndelag, Norway, starting 2020",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q42293305,Indre Østfold,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q42320251,Færder,"municipality in Vestfold og Telemark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q45303406,Nordre Follo,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48475310,Heim municipality,"municipality in Trøndelag, Norway (from 2020)",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q52368284,Nærøysund,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56249968,Senja municipality,"municipality in Troms og Finnmark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56404228,Alver,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56405258,Midt-Telemark,"municipality in Vestfold og Telemark, Norway (from 2020)",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56405940,Kinn,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q56406057,Sunnfjord,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q60742846,Bjørnafjorden,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q60777023,Hustadvika,municipality of Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q60806432,Lillestrøm municipality,municipality in Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q61015259,Stad,"municipality in Vestland county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q63644915,Øygarden,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q65230514,Fjord municipality,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q80571266,Lindesnes,"municipality in Agder, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q80593157,Asker,"municipality in Viken County, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q80678654,Ullensvang,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q1825,Karasjok,municipality in Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q1881,Fyresdal,"municipality in Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2229,Nissedal,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2232,Kviteseid,"municipality in Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2236,Seljord,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2241,Tokke,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2245,Vinje,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2272,Skien,"municipality in Vestfold and Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2290,Porsgrunn,"municipality in Vestfold and Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2308,Siljan,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2326,Notodden,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2354,Hjartdal,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2367,Drangedal,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2365,Tinn,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2375,Nome,"municipality in Vestfold og Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2372,Kragerø,"municipality in Telemark county, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q2415,Kristiansand,municipality of Agder county in Southern Norway,http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q5223,Stryn,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q6459,Kautokeino,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q6535,Alta,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q25416,Stavanger,"municipality in Rogaland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q26087,Tromsø,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q26525,Drammen,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q27587,Sandnes,"municipality in Rogaland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48276,Flatanger,"municipality in Trøndelag, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48299,Masfjorden,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48316,Tysnes,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48323,Meløy,"municipality in Nordland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48325,Sørreisa,"municipality in Troms og Finnmark, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48341,Lurøy,"municipality in Nordland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48393,Aremark,"municipality in Viken, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48414,Sør-Aurdal,"municipality in Innlandet, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48501,Stranda,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48508,Sykkylven,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48518,Sveio,"municipality in Vestland, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
+Q48521,Sunndal,"municipality in Møre og Romsdal, Norway",http://www.wikidata.org/entity/Q755707,municipality of Norway,http://www.wikidata.org/entity/Q20
