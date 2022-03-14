@@ -462,9 +462,9 @@
         "value" : "Embassy of Norway, Kyiv"
       },
       "orgDescription" : {
-        "xml:lang" : "nb",
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "norsk utenriksstasjon i Ukraina"
+        "value" : "diplomatic mission of Norway in Ukraine"
       },
       "type" : {
         "type" : "uri",
