@@ -1217,6 +1217,11 @@
         "type" : "literal",
         "value" : "Embassy of Norway, Budapest"
       },
+      "orgDescription" : {
+        "xml:lang" : "nb",
+        "type" : "literal",
+        "value" : "norsk utenriksstasjon i Ungarn"
+      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3917681"
