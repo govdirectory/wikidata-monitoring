@@ -434,9 +434,9 @@
         "value" : "Ministry of Trade, Industry and Fisheries"
       },
       "orgDescription" : {
-        "xml:lang" : "nb",
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "norsk departement"
+        "value" : "government ministry in Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4559,7 +4559,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alstahaug"
+        "value" : "Alstahaug Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6547,7 +6547,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sør-Fron"
+        "value" : "Sør-Fron Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6631,7 +6631,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rennebu"
+        "value" : "Rennebu Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6911,7 +6911,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nord-Fron"
+        "value" : "Nord-Fron Muncipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -7163,7 +7163,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tynset"
+        "value" : "Tynset Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -7219,7 +7219,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Grue"
+        "value" : "Grue Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -8871,7 +8871,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Våler"
+        "value" : "Våler Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9095,7 +9095,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vefsn"
+        "value" : "Vefsn Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9739,7 +9739,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alver"
+        "value" : "Alver Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9963,7 +9963,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Øygarden"
+        "value" : "Øygarden Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11167,7 +11167,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Stange"
+        "value" : "Stange Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -12007,7 +12007,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Eidskog"
+        "value" : "Eidskog Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
