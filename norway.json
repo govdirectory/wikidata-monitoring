@@ -2653,8 +2653,9 @@
         "value" : "Q120550779"
       },
       "orgLabel" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Q120550779"
+        "value" : "Embassy of Norway in Guinea"
       },
       "type" : {
         "type" : "uri",
