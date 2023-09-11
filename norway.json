@@ -3294,7 +3294,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tønsberg"
+        "value" : "Tønsberg Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -3630,12 +3630,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Horten"
+        "value" : "Horten Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Norway"
+        "value" : "municipality in Vestfold og Telemark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -3798,7 +3798,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Øvre Eiker"
+        "value" : "Øvre Eiker Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -5086,7 +5086,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Holmestrand"
+        "value" : "Holmestrand Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6290,7 +6290,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Marker"
+        "value" : "Marker Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -7802,7 +7802,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gol"
+        "value" : "Gol Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -8558,7 +8558,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hemsedal"
+        "value" : "Hemsedal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10042,7 +10042,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lindesnes"
+        "value" : "Lindesnes Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10966,7 +10966,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Aremark"
+        "value" : "Aremark Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
