@@ -454,6 +454,34 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q123062166"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Digitalization and Administration"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norwegian ministry"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109644271"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ministry of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q2511037"
       },
       "orgLabel" : {
@@ -4190,12 +4218,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Høyanger"
+        "value" : "Høyanger Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Sogn og Fjordane, Norway"
+        "value" : "municipality in Vestland, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4526,7 +4554,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gulen"
+        "value" : "Gulen Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -7914,7 +7942,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Grane"
+        "value" : "Grane Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11106,7 +11134,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sunndal"
+        "value" : "Sunndal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -12618,7 +12646,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nordkapp"
+        "value" : "Nordkapp Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
