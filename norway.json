@@ -3490,7 +3490,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sandefjord Municality"
+        "value" : "Sandefjord Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6094,7 +6094,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sauda"
+        "value" : "Sauda Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6122,7 +6122,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hå"
+        "value" : "Hå Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9762,7 +9762,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Senja municipality"
+        "value" : "Senja Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
