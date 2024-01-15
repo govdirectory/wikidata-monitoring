@@ -3103,7 +3103,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -3215,7 +3215,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -3299,7 +3299,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -3411,7 +3411,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -3742,12 +3742,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Berlevåg"
+        "value" : "Berlevåg Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -3798,7 +3798,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hasvik"
+        "value" : "Hasvik Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -4055,7 +4055,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4134,12 +4134,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nesseby"
+        "value" : "Nesseby Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4162,12 +4162,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Måsøy"
+        "value" : "Måsøy Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4246,12 +4246,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gamvik"
+        "value" : "Gamvik Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4279,7 +4279,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4442,12 +4442,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gratangen"
+        "value" : "Gratangen Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -4694,12 +4694,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dyrøy"
+        "value" : "Dyrøy Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -5170,7 +5170,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Porsanger"
+        "value" : "Porsanger Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -5287,7 +5287,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -5310,12 +5310,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tana"
+        "value" : "Tana Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -5343,7 +5343,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Østfold, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -5399,7 +5399,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -5539,7 +5539,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark, Norway"
+        "value" : "municipality in Telemark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -5567,7 +5567,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -6267,7 +6267,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -6295,7 +6295,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -6323,7 +6323,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Østfold, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -6827,7 +6827,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -7023,7 +7023,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Østfold, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -7359,7 +7359,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -7886,12 +7886,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bardu"
+        "value" : "Bardu Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -8054,12 +8054,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gáivuotna – Kåfjord – Kaivuono"
+        "value" : "Kåfjord"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -8311,7 +8311,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -8843,7 +8843,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -9067,7 +9067,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10182,12 +10182,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lebesby"
+        "value" : "Lebesby Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10294,12 +10294,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Båtsfjord"
+        "value" : "Båtsfjord Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10322,12 +10322,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sør-Varanger"
+        "value" : "Sør-Varanger Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10378,12 +10378,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Loppa"
+        "value" : "Loppa Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10495,7 +10495,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10607,7 +10607,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Buskerud, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11111,7 +11111,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in county Troms, Norway"
+        "value" : "municipality in Troms County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11167,7 +11167,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11274,7 +11274,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Færder"
+        "value" : "Færder Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11391,7 +11391,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark county, Norway"
+        "value" : "municipality in Troms county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11447,7 +11447,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark, Norway (from 2020)"
+        "value" : "municipality in Telemark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11778,12 +11778,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Karasjok"
+        "value" : "Karasjok Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11839,7 +11839,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11867,7 +11867,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality and parish in Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11923,7 +11923,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11951,7 +11951,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12035,7 +12035,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12091,7 +12091,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12147,7 +12147,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12175,7 +12175,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestfold og Telemark county, Norway"
+        "value" : "municipality in Telemark county, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12282,12 +12282,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kautokeino"
+        "value" : "Kautokeino Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12567,7 +12567,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Troms og Finnmark, Norway"
+        "value" : "municipality in Troms, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -12623,7 +12623,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Viken, Norway"
+        "value" : "municipality in Østfold, Norway"
       },
       "type" : {
         "type" : "uri",
