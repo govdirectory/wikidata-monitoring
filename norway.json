@@ -5422,7 +5422,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Modum"
+        "value" : "Modum Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -5954,7 +5954,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nord-Odal"
+        "value" : "Nord-Odal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -7074,7 +7074,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Volda"
+        "value" : "Volda Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10014,12 +10014,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Stad"
+        "value" : "Stad Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Vestland county, Norway"
+        "value" : "municipality in Vestland County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -11386,7 +11386,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sør-Odal"
+        "value" : "Sør-Odal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
