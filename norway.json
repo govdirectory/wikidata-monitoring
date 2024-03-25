@@ -2846,7 +2846,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gjerstad"
+        "value" : "Gjerstad Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -3098,7 +3098,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Flesberg"
+        "value" : "Flesberg Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -5282,7 +5282,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rollag"
+        "value" : "Rollag Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10742,7 +10742,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Stavanger Municipality"
+        "value" : "Stavanger"
       },
       "orgDescription" : {
         "xml:lang" : "en",
