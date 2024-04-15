@@ -1022,9 +1022,9 @@
         "value" : "Embassy of Norway, Berlin"
       },
       "orgDescription" : {
-        "xml:lang" : "nb",
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Norges Ambassade til Tyskland"
+        "value" : "embassy in Berlin, Germany"
       },
       "type" : {
         "type" : "uri",
