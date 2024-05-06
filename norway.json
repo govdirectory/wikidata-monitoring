@@ -734,6 +734,28 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q16083419"
+      },
+      "orgLabel" : {
+        "type" : "literal",
+        "value" : "Q16083419"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3917681"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "embassy"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q16891033"
       },
       "orgLabel" : {
@@ -5480,6 +5502,11 @@
         "type" : "literal",
         "value" : "Austevoll Municipality"
       },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Vestland, Norway"
+      },
       "type" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q755707"
@@ -5492,11 +5519,6 @@
       "country" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Vestland, Norway"
       }
     }, {
       "qid" : {
