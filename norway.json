@@ -3350,7 +3350,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tønsberg Municipality"
+        "value" : "Tønsberg"
       },
       "type" : {
         "type" : "uri",
@@ -5142,7 +5142,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Holmestrand Municipality"
+        "value" : "Holmestrand"
       },
       "type" : {
         "type" : "uri",
@@ -5926,7 +5926,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gildeskål"
+        "value" : "Gildeskål Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6486,7 +6486,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Moskenes"
+        "value" : "Moskenes Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6878,7 +6878,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vega"
+        "value" : "Vega Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -7662,7 +7662,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vågan"
+        "value" : "Vågan Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9874,7 +9874,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Midt-Telemark Municipality"
+        "value" : "Midt-Telemark"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10154,7 +10154,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Asker Municipality"
+        "value" : "Asker"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10966,7 +10966,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Meløy"
+        "value" : "Meløy Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11442,7 +11442,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Træna"
+        "value" : "Træna Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11974,7 +11974,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Leirfjord"
+        "value" : "Leirfjord Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
