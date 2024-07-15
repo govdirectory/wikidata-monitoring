@@ -2762,7 +2762,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bygland"
+        "value" : "Bygland Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -4722,7 +4722,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gjesdal"
+        "value" : "Gjesdal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9258,7 +9258,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lyngdal"
+        "value" : "Lyngdal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9426,7 +9426,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lund"
+        "value" : "Lund Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10210,12 +10210,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fyresdal"
+        "value" : "Fyresdal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10238,12 +10238,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nissedal"
+        "value" : "Nissedal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10266,12 +10266,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kviteseid"
+        "value" : "Kviteseid Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10518,7 +10518,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Drangedal"
+        "value" : "Drangedal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10602,12 +10602,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kragerø"
+        "value" : "Kragerø Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10714,7 +10714,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alta"
+        "value" : "Alta Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11918,7 +11918,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sokndal"
+        "value" : "Sokndal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
