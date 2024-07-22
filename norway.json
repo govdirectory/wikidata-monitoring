@@ -4050,7 +4050,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ål"
+        "value" : "Ål Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6290,7 +6290,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sigdal"
+        "value" : "Sigdal Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -10294,12 +10294,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Seljord"
+        "value" : "Seljord Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10434,12 +10434,12 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Siljan"
+        "value" : "Siljan Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10551,7 +10551,7 @@
       "orgDescription" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipality in Telemark county, Norway"
+        "value" : "municipality in Telemark County, Norway"
       },
       "type" : {
         "type" : "uri",
@@ -10714,7 +10714,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alta Municipality"
+        "value" : "Alta"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -12002,7 +12002,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Krødsherad"
+        "value" : "Krødsherad Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
