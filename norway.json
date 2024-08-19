@@ -2818,7 +2818,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gjerstad Municipality"
+        "value" : "Gjerstad"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -3798,7 +3798,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Øvre Eiker Municipality"
+        "value" : "Øvre Eiker"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6402,7 +6402,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hamarøy"
+        "value" : "Hamarøy Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6906,7 +6906,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lunner Municipality"
+        "value" : "Lunner"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -8894,7 +8894,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vennesla Municipality"
+        "value" : "Vennesla"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -11022,7 +11022,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sør-Aurdal Municipality"
+        "value" : "Sør-Aurdal"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -12562,7 +12562,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ullensaker"
+        "value" : "Ullensaker Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
