@@ -3462,7 +3462,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sandefjord Municipality"
+        "value" : "Sandefjord"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6710,7 +6710,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Samnanger Municipality"
+        "value" : "Samnanger"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -8166,7 +8166,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vanylven Municipality"
+        "value" : "Vanylven"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9174,7 +9174,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Verdal Municipality"
+        "value" : "Verdal"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9678,7 +9678,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nordre Follo Municipality"
+        "value" : "Nordre Follo"
       },
       "orgDescription" : {
         "xml:lang" : "en",
