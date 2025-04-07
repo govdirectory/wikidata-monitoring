@@ -3131,7 +3131,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lillehammer Municipality"
+        "value" : "Lillehammer"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -6995,7 +6995,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hvaler"
+        "value" : "Hvaler Municipality"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -9566,6 +9566,1574 @@
     }, {
       "qid" : {
         "type" : "literal",
+        "value" : "Q48518"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sveio Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Vestland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48521"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sunndal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Møre og Romsdal, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48526"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stor-Elvdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48529"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trysil Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48542"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stange Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48545"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Surnadal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Møre og Romsdal, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48577"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suldal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Rogaland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48591"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Strand Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Rogaland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48610"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sømna Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48615"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sør-Odal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48620"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Træna Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48629"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Værøy Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48637"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ringebu Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48647"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Solund Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Vestland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48657"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Storfjord Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Troms, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48696"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauske Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48717"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vestre Toten Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48723"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alvdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48728"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karlsøy Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Troms, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48732"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meråker Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Trøndelag, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48760"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lebesby Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Finnmark, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48769"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Åsnes Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48782"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Etne Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Vestland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48801"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tjeldsund"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Troms, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48813"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Båtsfjord Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Finnmark, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48827"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sør-Varanger Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Finnmark, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48844"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sortland Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48848"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Loppa Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Finnmark, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48858"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sokndal"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Rogaland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48870"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leirfjord Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48880"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saltdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48886"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Krødsherad Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Buskerud, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48897"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Evenes Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Nordland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48909"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Engerdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48913"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eidskog Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Innlandet, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48924"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nore og Uvdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Buskerud, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q48928"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vaksdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Vestland, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q54062"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ås Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q56915"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aurskog-Høland Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57076"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bærum Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus County, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57083"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frogn Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57080"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eidsvoll Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57081"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enebakk"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57084"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gjerdrum"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57858"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hurdal Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57862"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nannestad"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57860"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lørenskog"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57864"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nesodden"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57865"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nittedal"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57870"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rælingen"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57918"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vestby Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57919"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arendal"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Agder, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q57917"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ullensaker Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Akershus, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q62140"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harstad Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Troms County, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q62266"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ålesund Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Møre og Romsdal, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
+        "value" : "Q62641"
+      },
+      "orgLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nordkapp Municipality"
+      },
+      "orgDescription" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality in Finnmark, Norway"
+      },
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q755707"
+      },
+      "typeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipality of Norway"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      }
+    }, {
+      "qid" : {
+        "type" : "literal",
         "value" : "Q25428806"
       },
       "orgLabel" : {
@@ -11089,1574 +12657,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "municipality in Møre og Romsdal, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48518"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sveio Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Vestland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48521"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sunndal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Møre og Romsdal, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48526"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Stor-Elvdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48529"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Trysil Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48542"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Stange Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48545"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Surnadal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Møre og Romsdal, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48577"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Suldal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Rogaland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48591"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Strand Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Rogaland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48610"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sømna Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48615"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sør-Odal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48620"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Træna Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48629"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Værøy Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48637"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ringebu Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48647"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Solund Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Vestland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48657"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Storfjord Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Troms, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48696"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fauske Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48717"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vestre Toten Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48723"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alvdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48728"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karlsøy Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Troms, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48732"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Meråker Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Trøndelag, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48760"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lebesby Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Finnmark, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48769"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Åsnes Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48782"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Etne Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Vestland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48801"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tjeldsund"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Troms, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48813"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Båtsfjord Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Finnmark, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48827"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sør-Varanger Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Finnmark, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48844"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sortland Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48848"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Loppa Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Finnmark, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48858"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sokndal"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Rogaland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48870"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Leirfjord Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48880"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saltdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48886"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Krødsherad Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Buskerud, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48897"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Evenes Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Nordland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48909"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Engerdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48913"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eidskog Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Innlandet, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48924"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nore og Uvdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Buskerud, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q48928"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vaksdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Vestland, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q54062"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ås Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q56915"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aurskog-Høland Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57076"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bærum Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus County, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57083"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Frogn"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57080"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eidsvoll Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57081"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enebakk"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57084"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gjerdrum"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57858"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hurdal Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57862"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nannestad"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57860"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lørenskog"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57864"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nesodden"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57865"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nittedal"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57870"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rælingen"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57918"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vestby Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57919"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arendal"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Agder, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q57917"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ullensaker Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Akershus, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q62140"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Harstad Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Troms County, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q62266"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ålesund Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Møre og Romsdal, Norway"
-      },
-      "type" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q755707"
-      },
-      "typeLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality of Norway"
-      },
-      "country" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20"
-      }
-    }, {
-      "qid" : {
-        "type" : "literal",
-        "value" : "Q62641"
-      },
-      "orgLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nordkapp Municipality"
-      },
-      "orgDescription" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "municipality in Finnmark, Norway"
       },
       "type" : {
         "type" : "uri",
