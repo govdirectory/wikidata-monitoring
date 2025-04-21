@@ -14,9 +14,9 @@
         "value" : "Norway's Ministry of Local Government and Modernisation"
       },
       "orgDescription" : {
-        "xml:lang" : "nb",
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "norsk departement"
+        "value" : "Government ministry of Norway"
       },
       "type" : {
         "type" : "uri",
