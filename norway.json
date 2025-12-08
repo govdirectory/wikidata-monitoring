@@ -1014,7 +1014,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Embassy of Norway, Ankara"
+        "value" : "Embassy of Norway in Ankara"
       },
       "orgDescription" : {
         "xml:lang" : "nb",
@@ -3271,7 +3271,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hammerfest Municipality"
+        "value" : "Hammerfest"
       },
       "orgDescription" : {
         "xml:lang" : "en",
@@ -3607,7 +3607,7 @@
       "orgLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Halden Municipality"
+        "value" : "Halden"
       },
       "orgDescription" : {
         "xml:lang" : "en",
